@@ -1,9 +1,10 @@
- ![Web Developer](https://www.facebook.com/photo/?fbid=610496769909140&set=a.191116035180551)
- ### Hi there 👋, I'm Samuel Marandi
+![Web Developer]( https://scontent.fdac80-1.fna.fbcdn.net/v/t1.6435-9/187923746_610496773242473_8931862825428251143_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=X-k90k-bA3IAX8jXlGQ&_nc_ht=scontent.fdac80-1.fna&oh=00_AT_MJChgyGdh3XGbAaYWuxQL0XSKps5wkJ0gwy1NQcm1oA&oe=62DE180B)
+
+### Hi there 👋, I'm Samuel Marandi
 #### Web Developer
 
 
-Hello, I’m a Font-End developer. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. Most of the time I work with React js but some technologies I enjoy working such as JavaScript, Node js, as well as PHP.
+Hello, I’m a Font-End developer. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. Most of the time I work with React js but some technologies I enjoy working with such as JavaScript, Node js, as well as PHP.
 
 Skills: JavaScript / REACT / JS / HTML / CSS
 
